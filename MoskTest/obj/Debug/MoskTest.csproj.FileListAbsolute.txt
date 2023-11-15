@@ -1,0 +1,10 @@
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\bin\Debug\MoskTest.exe.config
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\bin\Debug\MoskTest.exe
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\bin\Debug\MoskTest.pdb
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.csproj.AssemblyReference.cache
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.Form1.resources
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.Properties.Resources.resources
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.csproj.GenerateResource.cache
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.csproj.CoreCompileInputs.cache
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.exe
+C:\Users\yus\Desktop\教材\1121視窗\期中模擬考\MoskTest\MoskTest\obj\Debug\MoskTest.pdb
